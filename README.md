@@ -1,1 +1,1 @@
-### data science projects
+### data science course projects
